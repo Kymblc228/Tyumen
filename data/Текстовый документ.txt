@@ -1,0 +1,3 @@
+https://metrics.tilda.ws/surnames – ФАМИЛИИ
+https://www.kaggle.com/datasets/magdadanina/russian-names-nen/data/data/names.csv?select=names.csv – имена
+https://ru.wikipedia.org/wiki/Административное_деление_Тюмени – АО
